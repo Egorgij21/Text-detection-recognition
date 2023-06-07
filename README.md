@@ -3,4 +3,4 @@
 
 ## Data:
 
-- CCPD dataset - https://drive.google.com/file/d/1zTsjpnFx-8Cl3HhS5iGB3iH_aPAv6ueQ/view?usp=sharing
+- CCPD dataset - https://drive.google.com/file/d/1rdEsCUcIUaYOVRkx5IMTRNA7PcGMmSgc/view
